@@ -50,4 +50,4 @@ If you have any questions or would like more information about our community, fe
 - **Email**: [info@mechinagar.dev](mailto:dc.mechinagar@gmail.com)
 - **Website**: [www.mechinagar.dev](https://mechinagardev.vercel.app)
 
-Join us in building a vibrant and supportive developers community in Mechinagar!
+Join us in building a vibrant and supportive Developers Community Mechinagar!
